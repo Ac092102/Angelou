@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background: url('meteor.jpg');
+    text-align: center;
+}
+
+h2 {
+    color: white; 
+}
+label {
+	color: white; 
+}
+	
+table {
+    width: 50%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: white; 
+}
+
+th, td {
+    border: 3px solid yellow;
+    padding: 10px;
+}
+
+th {
+    background-color: Purple; 
+    color: white;
+}
+
+
+button {
+    background-color: purple; 
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #005f73; 
+}
